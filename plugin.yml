@@ -1,0 +1,8 @@
+name: SpamChat
+main: ChatClear\Main
+author: ppcreator
+description: Plugin SpamChat! Check by GitHub account ! https://github.com/ppcreator
+commands:
+  spam:
+  description: --------
+  default: true
